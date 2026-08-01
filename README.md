@@ -71,7 +71,7 @@ Financial transaction management API built with Spring Boot, Spring AI, MySQL an
 🔹 [**spring-design-patterns-api**](https://github.com/PinchiSZ/spring-design-patterns-api)  
 REST API exploring design patterns with Spring. Improved with validation, exception handling, documentation, and tests.  
 
-🔹 [**Hangman Game in Python**](https://github.com/PinchiSZ/hangman-python)  
+🔹 [**Hangman Game in Python**](https://github.com/PinchiSZ/python-hangman)  
 Academic project focusing on algorithmic thinking, modularization, and interactive terminal gameplay.  
 
 > 💡 All my other repositories are public and tell the story of my learning journey — from simple scripts to more complete applications.
