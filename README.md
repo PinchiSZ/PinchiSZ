@@ -65,13 +65,13 @@ I’ve just completed an intensive bootcamp on **Java + Spring Boot AI**, where 
 
 ### 📂 Highlighted projects
 
-🔹 [**spring-ai-budgeting**](https://github.com/yourusername/spring-ai-budgeting)  
+🔹 [**spring-ai-budgeting**](https://github.com/PinchiSZ/spring-ai-budgeting)  
 Financial transaction management API built with Spring Boot, Spring AI, MySQL and Docker — developed during the Java + AI bootcamp.  
 
-🔹 [**spring-design-patterns-api**](https://github.com/yourusername/spring-design-patterns-api)  
+🔹 [**spring-design-patterns-api**](https://github.com/PinchiSZ/spring-design-patterns-api)  
 REST API exploring design patterns with Spring. Improved with validation, exception handling, documentation, and tests.  
 
-🔹 [**Hangman Game in Python**](https://github.com/yourusername/hangman-python)  
+🔹 [**Hangman Game in Python**](https://github.com/PinchiSZ/hangman-python)  
 Academic project focusing on algorithmic thinking, modularization, and interactive terminal gameplay.  
 
 > 💡 All my other repositories are public and tell the story of my learning journey — from simple scripts to more complete applications.
