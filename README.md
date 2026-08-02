@@ -80,8 +80,8 @@ Academic project focusing on algorithmic thinking, modularization, and interacti
 
 ### 📫 Let’s connect!
 
-[![https://www.linkedin.com/in/psz-z-dev/](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin])
-[![ferrarizrz@outlook.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/psz-z-dev/)
+[![ferrarizrz@outlook.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ferrarizrz@outlook.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/pinchisz)
 
 ---
