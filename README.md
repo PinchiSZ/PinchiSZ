@@ -2,9 +2,10 @@
 
 <div align="center">
 
-<img src="./assets/astolfo.gif" width="230" alt="Astolfo">
+<img width="498" height="280" alt="download" src="https://github.com/user-attachments/assets/20a6e458-aad2-4c9b-b58c-213b8b74fe32" />
 
-<h1>💻🧠🤖🔐🌱</h1>
+
+
 
 <h2>Code, creativity, and a foot in the future</h2>
 
@@ -28,7 +29,7 @@ I've recently completed an intensive **Java + Spring Boot AI bootcamp**, where I
 
 ☁️ I'm also exploring **Azure, AWS, Docker, and DevOps practices**, with plans to pursue cloud certifications and gain practical experience with modern infrastructure.
 
-♿ I'm interested in **accessibility, Design Justice, sustainability, and Green IT**, because I believe technology should be more than functional — it should be **inclusive, responsible, efficient, and designed with real people in mind**.
+♿ I'm believe in **accessibility, Design Justice, sustainability, and Green IT**, because technology should be more than functional, it should be **inclusive, responsible, efficient, and designed with real people in mind**.
 
 🌱 I'm particularly interested in **Green IT and sustainable software**, including reducing unnecessary resource consumption and considering the environmental impact of the systems we build.
 
