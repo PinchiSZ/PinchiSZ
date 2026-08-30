@@ -156,27 +156,45 @@ I'm especially interested in **Ruby** for its elegant syntax and developer exper
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PinchiSZ&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"/>
+<a href="https://github.com/PinchiSZ">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=PinchiSZ&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
+    alt="GitHub Stats"
+  />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinchiSZ&layout=compact&langs_count=8&hide_border=true&theme=transparent"/>
+<a href="https://github.com/PinchiSZ">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinchiSZ&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    alt="Top Languages"
+  />
+</a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=PinchiSZ&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+<a href="https://github.com/PinchiSZ">
+  <img
+    src="https://streak-stats.demolab.com?user=PinchiSZ&theme=transparent&hide_border=true"
+    alt="GitHub Streak"
+  />
+</a>
 
 </div>
 
 ---
 
+
 # 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PinchiSZ&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=PinchiSZ&theme=github-compact&hide_border=true&area=true"
+  width="95%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
@@ -186,10 +204,24 @@ I'm especially interested in **Ruby** for its elegant syntax and developer exper
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PinchiSZ/PinchiSZ/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/PinchiSZ/PinchiSZ/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/PinchiSZ/PinchiSZ/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/PinchiSZ/PinchiSZ/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 </div>
-
 ---
 
 # 📂 Highlighted Projects
