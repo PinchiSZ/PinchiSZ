@@ -152,54 +152,6 @@ I'm especially interested in **Ruby** for its elegant syntax and developer exper
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/PinchiSZ">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=PinchiSZ&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
-    alt="GitHub Stats"
-  />
-</a>
-
-<a href="https://github.com/PinchiSZ">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinchiSZ&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-    alt="Top Languages"
-  />
-</a>
-
-<br><br>
-
-<a href="https://github.com/PinchiSZ">
-  <img
-    src="https://streak-stats.demolab.com?user=PinchiSZ&theme=transparent&hide_border=true"
-    alt="GitHub Streak"
-  />
-</a>
-
-</div>
-
----
-
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=PinchiSZ&theme=github-compact&hide_border=true&area=true"
-  width="95%"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
