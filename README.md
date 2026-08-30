@@ -29,7 +29,7 @@ I've recently completed an intensive **Java + Spring Boot AI bootcamp**, where I
 
 ☁️ I'm also exploring **Azure, AWS, Docker, and DevOps practices**, with plans to pursue cloud certifications and gain practical experience with modern infrastructure.
 
-♿ I'm believe in **accessibility, Design Justice, sustainability, and Green IT**, because technology should be more than functional, it should be **inclusive, responsible, efficient, and designed with real people in mind**.
+♿ I believe in **accessibility, Design Justice, sustainability, and Green IT**, because technology should be more than functional, it should be **inclusive, responsible, efficient, and designed with real people in mind**.
 
 🌱 I'm particularly interested in **Green IT and sustainable software**, including reducing unnecessary resource consumption and considering the environmental impact of the systems we build.
 
