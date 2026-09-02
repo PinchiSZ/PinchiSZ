@@ -247,7 +247,7 @@ Using technology wisely will ensure computer processes/environmental damage are 
 
 New technology should help provide long-term solutions, not increase production and consumption.
 
-I believe that none of these concepts exist outside software engineering; rather, they illustrate the need of **building better technology**.
+For me, these aren't separate concepts from software engineering — they're part of **building better technology**.
 ---
 
 # 📫 Let's connect!
