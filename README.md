@@ -241,14 +241,13 @@ The people affected by technology should have a voice in how that technology is 
 
 ### 🌱 Green IT
 
-Efficient software and infrastructure can reduce unnecessary computational and environmental costs.
+Using technology wisely will ensure computer processes/environmental damage are minimized.
 
 ### ♻️ Sustainability
 
-Technology should contribute to long-term solutions rather than simply creating more consumption.
+New technology should help provide long-term solutions, not increase production and consumption.
 
-For me, these aren't separate concepts from software engineering — they're part of **building better technology**.
-
+I believe that none of these concepts exist outside software engineering; rather, they illustrate the need of **building better technology**.
 ---
 
 # 📫 Let's connect!
