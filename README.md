@@ -114,7 +114,6 @@ NEXT
 I'm especially interested in **Ruby** for its elegant syntax and developer experience, and **Rust** for its performance, memory safety, and potential applications in systems programming and security.
 
 ---
-# 🛠️ Tech Stack
 
 # 🛠️ Tech Stack
 
