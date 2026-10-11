@@ -11,7 +11,7 @@
 
   <br />
 
-  <h1>Hello, world. I'm PinchiSZ.</h1>
+<h1><img width="100%" alt="Hello, world. I'm PinchiSZ." src="./assets/section-00-hello.svg" /></h1>
 
   <p>
     <img
