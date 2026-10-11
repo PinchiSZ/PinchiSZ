@@ -93,19 +93,9 @@ A REST API exploring **design patterns with Spring**, with work on validation, e
 ## `04 // Live activity`
 
 <div align="center">
-
-  <!-- Activity Graph — endpoint alternativo -->
   <a href="https://github.com/PinchiSZ">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PinchiSZ&bg_color=0B0713&color=FF4FD8&line=00F5FF&point=FF2E93&area=true&hide_border=true&custom_title=Contribution%20Graph%20//%20Last%2031%20Days" alt="Contribution Graph" />
+    <img width="100%" src="https://raw.githubusercontent.com/PinchiSZ/PinchiSZ/main/assets/github-metrics.svg" alt="GitHub Metrics" />
   </a>
-
-  <br /><br />
-
-  <!-- GitHub Trophies — fork alternativo -->
-  <a href="https://github.com/PinchiSZ">
-    <img width="100%" src="https://github-profile-trophy-liard-delta.vercel.app/?username=PinchiSZ&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6&title_color=FF4FD8&icon_color=00F5FF&text_color=EADCF8" alt="GitHub Trophies" />
-  </a>
-
 </div>
 
 ---
