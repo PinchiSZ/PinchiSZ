@@ -1,18 +1,28 @@
 <!-- Cyberpunk palette: void purple #0B0713, neon pink #FF4FD8, hot pink #FF2E93, electric violet #B84DFF, cyber cyan #00F5FF, text lilac #EADCF8. -->
 <div align="center">
 
-  <!-- Keep the original Astolfo GIF as the first visual on the profile. -->
-  <img width="300" alt="Astolfo GIF" src="https://github.com/user-attachments/assets/20a6e458-aad2-4c9b-b58c-213b8b74fe32" />
+  <!-- Astolfo GIF -->
+  <img width="280" alt="Astolfo GIF" src="https://github.com/user-attachments/assets/20a6e458-aad2-4c9b-b58c-213b8b74fe32" />
 
   <br />
 
-  <!-- Commit assets/cyberpunk-header.svg alongside this README. -->
-  <img width="100%" alt="Cyberpunk-inspired banner: accessible systems, secure code and sustainable technology" src="./assets/cyberpunk-header.svg" />
+  <!-- Novo hero dashboard — antes do Hello -->
+  <img width="100%" alt="PinchiSZ — System Online" src="./assets/cyberpunk-hero.svg" />
 
-  <h1>Hi, I'm PinchiSZ 👋</h1>
-  <h3>Code with purpose. Build for people. Design for a better future.</h3>
+  <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=FF4FD8&center=true&vCenter=true&width=800&lines=Information+Systems+student;Building+accessible+and+sustainable+software;Exploring+software+engineering+and+cyber+security;Learning+by+building%2C+testing%2C+and+improving" alt="Animated introduction" />
+  <h1>Hello, world. I'm PinchiSZ.</h1>
+
+  <p>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+software+with+purpose.;Accessibility+is+not+optional.;Technology+should+serve+people.;Exploring+development%2C+testing+%26+Green+IT.;Always+learning.+Always+building."
+      alt="Building software with purpose. Accessibility is not optional. Technology should serve people. Exploring development, testing and Green IT."
+    />
+  </p>
+
+  <p>
+    <sub>SOFTWARE DEVELOPMENT // ACCESSIBILITY // GREEN IT</sub>
+  </p>
 
   <p>
     <a href="https://github.com/PinchiSZ?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-FF4FD8?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
@@ -78,93 +88,56 @@ A financial transaction management API built with **Java, Spring Boot, Spring AI
 ### 🧩 [spring-design-patterns-api](https://github.com/PinchiSZ/spring-design-patterns-api)
 A REST API exploring **design patterns with Spring**, with work on validation, exception handling, documentation and tests.
 
-### 🐍 [Python Hangman](https://github.com/PinchiSZ/python-hangman)
-A terminal-based game focused on algorithmic thinking, modularisation and interactive gameplay.
-
-<p align="center">
-  <a href="https://github.com/PinchiSZ?tab=repositories"><img src="https://img.shields.io/badge/More_projects-View_all_repositories-FF4FD8?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a>
-</p>
-
 ---
 
-## `04 // GitHub dashboard`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PinchiSZ&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0B0713&title_color=FF4FD8&text_color=EADCF8&icon_color=00F5FF" alt="PinchiSZ GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinchiSZ&layout=compact&langs_count=8&hide_border=true&bg_color=0B0713&title_color=FF4FD8&text_color=EADCF8" alt="Most-used languages in public repositories" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PinchiSZ&theme=dark&hide_border=true&background=0B0713&ring=FF4FD8&fire=00F5FF&currStreakLabel=FF4FD8&sideLabels=EADCF8&sideNums=EADCF8&dates=BBA9D0" alt="GitHub contribution streak" />
-</p>
-
-### `// Recent contribution activity`
-
-<!-- BEGIN ACTIVITY-GRAPH -->
-<!-- END ACTIVITY-GRAPH -->
-
-
-### `// Contribution snake`
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PinchiSZ/PinchiSZ/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PinchiSZ/PinchiSZ/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/PinchiSZ/PinchiSZ/output/github-contribution-grid-snake.svg" alt="Snake animation traversing my GitHub contribution calendar" />
-  </picture>
-</p>
-
----
-
----
-
-## `05 // GLOBAL NETWORK`
-
-<p align="center">
-  <img
-    src="assets/global-network-panel.svg"
-    alt="Cyberpunk network visualization with cyan and pink neon connections. Decorative illustration, not real visitor location data."
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=PinchiSZ&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"
-    alt="GitHub profile view counter"
-  />
-</p>
-
-<p align="center">
-  <sub>Thanks for visiting my profile — wherever in the world you're coding from.</sub>
-</p>
-
----
-
-
-
----
-
-## `06 // What I care about`
-
-| ♿ Accessibility | ⚖️ Design Justice | 🌱 Green IT | 🔐 Cyber security |
-| --- | --- | --- | --- |
-| Interfaces should be usable by as many people as possible. | People affected by technology should have a voice in its design. | Efficient, responsible software should consider its resource use and environmental impact. | Building responsibly means understanding how systems fail and how to make them more resilient. |
-
----
-
-## `07 // Let's connect`
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/psz-z-dev/"><img src="https://img.shields.io/badge/LinkedIn-FF2E93?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://dev.to/pinchisz"><img src="https://img.shields.io/badge/DEV.to-171025?style=for-the-badge&logo=devdotto&logoColor=FF4FD8" alt="DEV Community" /></a>
-  <a href="mailto:ferrarizrz@outlook.com"><img src="https://img.shields.io/badge/Email-B84DFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+## `04 // Live activity`
 
 <div align="center">
 
-*“Technology only makes sense when it solves real problems — and I want to help build technology that is secure, inclusive and sustainable.”*
+  <!-- Activity Graph — endpoint alternativo -->
+  <a href="https://github.com/PinchiSZ">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PinchiSZ&bg_color=0B0713&color=FF4FD8&line=00F5FF&point=FF2E93&area=true&hide_border=true&custom_title=Contribution%20Graph%20//%20Last%2031%20Days" alt="Contribution Graph" />
+  </a>
 
-**`ACCESSIBILITY` · `SECURITY` · `GREEN IT` · `PEOPLE FIRST`**
+  <br /><br />
+
+  <!-- GitHub Trophies — fork alternativo -->
+  <a href="https://github.com/PinchiSZ">
+    <img width="100%" src="https://github-profile-trophy-liard-delta.vercel.app/?username=PinchiSZ&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6&title_color=FF4FD8&icon_color=00F5FF&text_color=EADCF8" alt="GitHub Trophies" />
+  </a>
+
+</div>
+
+---
+
+## `05 // Global visitors`
+
+<div align="center">
+
+  <p><sub>// VISITORS BY COUNTRY — flags and counts update in real time</sub></p>
+
+  <!-- Contador de bandeiras — tamanho natural, sem esticar -->
+  <a href="https://github.com/PinchiSZ">
+    <img src="https://github-visitor-counter-tau.vercel.app/api?username=PinchiSZ&theme=dark&bg=0B0713&text=EADCF8&border=B84DFF&size=large&columns=6&maxflags=18" alt="Visitor flags by country" />
+  </a>
+
+</div>
+
+---
+
+<!-- ✦ DIVISOR EXCLUSIVO PINCHISZ ✦ -->
+<img width="100%" alt="Divider" src="./assets/cyberpunk-divider.svg" />
+
+<div align="center">
+
+  <h3>Let's build something meaningful — secure, inclusive and sustainable.</h3>
+
+  <p>
+    <a href="https://github.com/PinchiSZ"><img src="https://img.shields.io/badge/GitHub-PinchiSZ-0B0713?style=for-the-badge&logo=github&logoColor=FF4FD8" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/psz-z-dev/"><img src="https://img.shields.io/badge/LinkedIn-psz--z--dev-0B0713?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="LinkedIn" /></a>
+    <a href="https://dev.to/pinchisz"><img src="https://img.shields.io/badge/DEV.to-pinchisz-0B0713?style=for-the-badge&logo=devdotto&logoColor=FF4FD8" alt="DEV.to" /></a>
+  </p>
+
+  <sub>Made with 💜, curiosity and a lot of <code>git commit -m "fix"</code>.</sub>
 
 </div>
