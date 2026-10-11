@@ -116,31 +116,32 @@ A terminal-based game focused on algorithmic thinking, modularisation and intera
 
 ---
 
-## `05 // Visitors from around the world`
-
+---
 
 ## `05 // GLOBAL NETWORK`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GLOBAL_NETWORK-0B0713?style=for-the-badge&logo=googleearth&logoColor=00F5FF&labelColor=0B0713" alt="Global network" />
-  <img src="https://img.shields.io/badge/PROFILE_TELEMETRY-0B0713?style=for-the-badge&logo=activitypub&logoColor=FF4FD8&labelColor=0B0713" alt="Profile telemetry" />
+  <img
+    src="assets/global-network-panel.svg"
+    alt="Cyberpunk network visualization with cyan and pink neon connections. Decorative illustration, not real visitor location data."
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <sub>GLOBAL ACCESS // INTERNATIONAL CONNECTIONS // PEOPLE FIRST</sub>
-</p>
-
-<p align="center">
-  <img src="https://github-visitor-counter-tau.vercel.app/api?username=PinchiSZ&displayMode=topCountries&bg=0B0713&text=EADCF8&border=FF4FD8&columns=4&maxflags=16&showlabels=true" alt="Visitor countries, flags and counts" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PinchiSZ&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile view counter" />
+  <img
+    src="https://komarev.com/ghpvc/?username=PinchiSZ&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"
+    alt="GitHub profile view counter"
+  />
 </p>
 
 <p align="center">
   <sub>Thanks for visiting my profile — wherever in the world you're coding from.</sub>
 </p>
+
+---
+
+
 
 ---
 
