@@ -73,8 +73,6 @@ My goal is to grow as a **software developer** while gradually specialising in *
 
 `AWS` · `Azure` · `DevOps` · `Application Security` · `Penetration Testing` · `Ruby` · `Rust`
 
-*This list reflects areas I'm exploring, not a claim of professional experience.*
-
 ---
 
 <img width="100%" alt="03 // Featured projects" src="./assets/section-03.svg" />
