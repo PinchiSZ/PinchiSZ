@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 70" width="1000" height="70" fill="none">
+  <defs>
+    <linearGradient id="bg02" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B0713"/>
+      <stop offset="0.5" stop-color="#0A1A22"/>
+      <stop offset="1" stop-color="#0B0713"/>
+    </linearGradient>
+    <linearGradient id="ln02" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00F5FF" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#00F5FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="gl02" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="69" rx="6" fill="url(#bg02)" stroke="#00F5FF" stroke-opacity="0.35"/>
+  <g transform="translate(38,35)">
+    <polygon points="-22,0 -11,-19 11,-19 22,0 11,19 -11,19" fill="none" stroke="#00F5FF" stroke-width="1.5" filter="url(#gl02)"/>
+    <text x="0" y="5" fill="#00F5FF" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14" font-weight="700" text-anchor="middle">02</text>
+  </g>
+  <text x="80" y="42" fill="#EADCF8" font-family="'JetBrains Mono','Fira Code',monospace" font-size="20" font-weight="700" letter-spacing="5">TECH STACK</text>
+  <line x1="310" y1="35" x2="820" y2="35" stroke="url(#ln02)" stroke-width="1"/>
+  <text x="970" y="39" fill="#00F5FF" font-family="'JetBrains Mono',monospace" font-size="10" letter-spacing="3" text-anchor="end" opacity="0.85">LOADOUT.SYS</text>
+  <circle cx="986" cy="35" r="3" fill="#00F5FF" filter="url(#gl02)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="0.3s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="0" y="0" width="1000" height="1" fill="#FF4FD8" opacity="0.25">
+    <animate attributeName="y" from="0" to="70" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.35;0" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

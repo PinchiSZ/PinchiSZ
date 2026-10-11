@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0713"/>
+      <stop offset="1" stop-color="#17102A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="100" y1="0" x2="900" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5FF"/>
+      <stop offset="1" stop-color="#FF4FD8"/>
+    </linearGradient>
+    <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse">
+      <path d="M25 0H0V25" stroke="#8B6DAA" stroke-opacity=".14" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="300" rx="14" fill="url(#bg)"/>
+  <rect width="1000" height="300" rx="14" fill="url(#grid)"/>
+  <rect x="12" y="12" width="976" height="276" rx="9" stroke="#00F5FF" stroke-opacity=".45"/>
+  <path d="M12 48H260M740 48H988" stroke="#FF4FD8" stroke-opacity=".65"/>
+  <path d="M30 25H65M30 25V45M970 255V275H935" stroke="#00F5FF" stroke-width="2"/>
+
+  <g font-family="monospace">
+    <text x="38" y="38" fill="#00F5FF" font-size="12" letter-spacing="3">TELEMETRY // 05</text>
+    <text x="962" y="38" fill="#FF4FD8" font-size="11" text-anchor="end" letter-spacing="2">NETWORK INTERFACE</text>
+
+    <text x="40" y="88" fill="#EADCF8" font-size="25" font-weight="700">GLOBAL NETWORK</text>
+    <text x="40" y="111" fill="#9E8AB8" font-size="12" letter-spacing="2">CONNECTED IDEAS. OPEN KNOWLEDGE.</text>
+
+    <g stroke="url(#line)" stroke-width="1.5" stroke-opacity=".8">
+      <path d="M510 82L610 58L705 91L790 62L900 98"/>
+      <path d="M510 82L570 145L670 126L705 91"/>
+      <path d="M570 145L625 210L730 188L815 225L900 175"/>
+      <path d="M670 126L730 188L790 142L900 175"/>
+      <path d="M790 62L790 142L900 98L900 175"/>
+      <path d="M510 82L480 170L570 145"/>
+      <path d="M480 170L530 235L625 210"/>
+    </g>
+
+    <g fill="#0B0713" stroke-width="2" filter="url(#glow)">
+      <circle cx="510" cy="82" r="5" stroke="#00F5FF"/>
+      <circle cx="610" cy="58" r="4" stroke="#FF4FD8"/>
+      <circle cx="705" cy="91" r="6" stroke="#00F5FF"/>
+      <circle cx="790" cy="62" r="4" stroke="#FF4FD8"/>
+      <circle cx="900" cy="98" r="5" stroke="#00F5FF"/>
+      <circle cx="570" cy="145" r="5" stroke="#FF4FD8"/>
+      <circle cx="670" cy="126" r="4" stroke="#00F5FF"/>
+      <circle cx="730" cy="188" r="6" stroke="#FF4FD8"/>
+      <circle cx="815" cy="225" r="4" stroke="#00F5FF"/>
+      <circle cx="900" cy="175" r="5" stroke="#FF4FD8"/>
+      <circle cx="480" cy="170" r="4" stroke="#00F5FF"/>
+      <circle cx="530" cy="235" r="4" stroke="#FF4FD8"/>
+      <circle cx="625" cy="210" r="5" stroke="#00F5FF"/>
+      <circle cx="790" cy="142" r="4" stroke="#00F5FF"/>
+    </g>
+
+    <path d="M40 145H340V230H40Z" stroke="#FF4FD8" stroke-opacity=".6"/>
+    <path d="M40 145H160" stroke="#FF4FD8" stroke-width="3"/>
+    <text x="56" y="169" fill="#FF4FD8" font-size="11" letter-spacing="2">CORE DIRECTIVE</text>
+    <text x="56" y="194" fill="#EADCF8" font-size="14">ACCESSIBILITY</text>
+    <text x="56" y="214" fill="#EADCF8" font-size="14">SUSTAINABILITY</text>
+
+    <text x="40" y="263" fill="#00F5FF" font-size="10" letter-spacing="1.5">OPEN SOURCE // HUMAN-CENTERED TECHNOLOGY</text>
+    <text x="960" y="272" fill="#9E8AB8" font-size="10" text-anchor="end">VISUALIZATION ONLY // NO LIVE GEOLOCATION</text>
+  </g>
+</svg>
