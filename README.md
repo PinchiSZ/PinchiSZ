@@ -34,7 +34,7 @@
 
 ---
 
-## `01 // About me`
+<img width="100%" alt="01 // About me" src="./assets/section-01.svg" />
 
 I'm an **Information Systems student** building my foundations in software engineering, web development, APIs, databases and cloud technologies.
 
@@ -50,7 +50,7 @@ My goal is to grow as a **software developer** while gradually specialising in *
 
 ---
 
-## `02 // Tech stack`
+<img width="100%" alt="02 // Tech stack" src="./assets/section-02.svg" />
 
 ### Hands-on tools and technologies
 
@@ -77,7 +77,7 @@ My goal is to grow as a **software developer** while gradually specialising in *
 
 ---
 
-## `03 // Featured projects`
+<img width="100%" alt="03 // Featured projects" src="./assets/section-03.svg" />
 
 ### ♿ [Instituto TEIAS — Technology, Education, Inclusion and Sustainability](https://github.com/PinchiSZ/ong-terceiro-setor)
 An academic NGO website built with **HTML, CSS and JavaScript**, focusing on accessibility, inclusive design, responsive layouts and Green IT. Current work includes accessibility improvements, colour-contrast checks, reduced-motion support and accessible interface components.
@@ -90,7 +90,7 @@ A REST API exploring **design patterns with Spring**, with work on validation, e
 
 ---
 
-## `04 // Live activity`
+<img width="100%" alt="04 // Live activity" src="./assets/section-04.svg" />
 
 <div align="center">
   <a href="https://github.com/PinchiSZ">
@@ -100,7 +100,7 @@ A REST API exploring **design patterns with Spring**, with work on validation, e
 
 ---
 
-## `05 // Global visitors`
+<img width="100%" alt="05 // Global visitors" src="./assets/section-05.svg" />
 
 <div align="center">
 
