@@ -102,7 +102,6 @@ A REST API exploring **design patterns with Spring**, with work on validation, e
 
 <div align="center">
 
-  <p><sub>// VISITORS BY COUNTRY — flags and counts update in real time</sub></p>
 
   <!-- Contador de bandeiras — tamanho natural, sem esticar -->
   <a href="https://github.com/PinchiSZ">
