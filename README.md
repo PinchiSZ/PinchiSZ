@@ -94,7 +94,7 @@ A REST API exploring **design patterns with Spring**, with work on validation, e
 
 <div align="center">
   <a href="https://github.com/PinchiSZ">
-    <img width="100%" src="./assets/github-metrics.svg" alt="GitHub Metrics" />
+    <img width="100%" src="https://raw.githubusercontent.com/PinchiSZ/PinchiSZ/main/assets/github-metrics.svg" alt="GitHub Metrics — calendar, languages and habits" />
   </a>
 </div>
 
