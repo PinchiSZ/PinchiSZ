@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 60" width="1000" height="60" fill="none">
+  <defs>
+    <linearGradient id="neonLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF4FD8" stop-opacity="0"/>
+      <stop offset="0.15" stop-color="#FF4FD8"/>
+      <stop offset="0.5" stop-color="#00F5FF"/>
+      <stop offset="0.85" stop-color="#B84DFF"/>
+      <stop offset="1" stop-color="#FF2E93" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="neonLine2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B84DFF" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#B84DFF"/>
+      <stop offset="0.7" stop-color="#FF2E93"/>
+      <stop offset="1" stop-color="#FF4FD8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowSoft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Linha superior principal com gradiente neon -->
+  <line x1="0" y1="18" x2="1000" y2="18" stroke="url(#neonLine)" stroke-width="2" filter="url(#glow)"/>
+
+  <!-- Linha inferior secundária -->
+  <line x1="0" y1="42" x2="1000" y2="42" stroke="url(#neonLine2)" stroke-width="1.5" filter="url(#glowSoft)"/>
+
+  <!-- Bloco central com brackets -->
+  <rect x="420" y="8" width="160" height="44" rx="4" fill="none" stroke="#00F5FF" stroke-width="1.5" filter="url(#glowSoft)"/>
+  <text x="500" y="36" fill="#00F5FF" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13" font-weight="600" letter-spacing="4" text-anchor="middle" filter="url(#glowSoft)">PINCHISZ</text>
+
+  <!-- Pontos de conexão esquerda -->
+  <circle cx="80" cy="18" r="3" fill="#FF4FD8" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="160" cy="18" r="2" fill="#00F5FF" filter="url(#glowSoft)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="240" cy="18" r="2.5" fill="#B84DFF" filter="url(#glowSoft)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="320" cy="18" r="2" fill="#FF2E93" filter="url(#glowSoft)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Pontos de conexão direita -->
+  <circle cx="680" cy="18" r="2" fill="#FF2E93" filter="url(#glowSoft)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="760" cy="18" r="2.5" fill="#B84DFF" filter="url(#glowSoft)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="840" cy="18" r="2" fill="#00F5FF" filter="url(#glowSoft)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="920" cy="18" r="3" fill="#FF4FD8" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="1.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Circuitos decorativos esquerda -->
+  <path d="M60 42 L60 30 L100 30 L100 18" stroke="#00F5FF" stroke-width="0.8" stroke-opacity="0.5" fill="none"/>
+  <path d="M120 42 L120 34 L180 34 L180 18" stroke="#B84DFF" stroke-width="0.8" stroke-opacity="0.5" fill="none"/>
+  <path d="M200 42 L200 26 L260 26 L260 18" stroke="#FF4FD8" stroke-width="0.8" stroke-opacity="0.5" fill="none"/>
+
+  <!-- Circuitos decorativos direita -->
+  <path d="M940 42 L940 30 L900 30 L900 18" stroke="#00F5FF" stroke-width="0.8" stroke-opacity="0.5" fill="none"/>
+  <path d="M880 42 L880 34 L820 34 L820 18" stroke="#B84DFF" stroke-width="0.8" stroke-opacity="0.5" fill="none"/>
+  <path d="M800 42 L800 26 L740 26 L740 18" stroke="#FF4FD8" stroke-width="0.8" stroke-opacity="0.5" fill="none"/>
+
+  <!-- Scan line animada -->
+  <rect x="0" y="0" width="1000" height="1.5" fill="#00F5FF" opacity="0.35">
+    <animate attributeName="y" from="5" to="55" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.4;0" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
