@@ -100,11 +100,9 @@ A terminal-based game focused on algorithmic thinking, modularisation and intera
 
 ### `// Recent contribution activity`
 
-<p align="center">
-  <a href="https://github.com/PinchiSZ?tab=repositories">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PinchiSZ&bg_color=0B0713&color=EADCF8&line=FF4FD8&point=00F5FF&area=true&hide_border=true&custom_title=Contribution%20Activity%20(last%2031%20days)" alt="GitHub contribution activity over the last 31 days" />
-  </a>
-</p>
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
+
 
 ### `// Contribution snake`
 
@@ -120,13 +118,29 @@ A terminal-based game focused on algorithmic thinking, modularisation and intera
 
 ## `05 // Visitors from around the world`
 
-<div align="center">
 
-  <img src="https://github-visitor-counter-tau.vercel.app/api?username=PinchiSZ&displayMode=topCountries&theme=dark&columns=4&maxflags=16&showlabels=true" alt="Profile visitors grouped by country, with flags and counts" />
+## `05 // GLOBAL NETWORK`
 
-  <p><em>Thanks for stopping by — wherever in the world you're coding from!</em></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GLOBAL_NETWORK-0B0713?style=for-the-badge&logo=googleearth&logoColor=00F5FF&labelColor=0B0713" alt="Global network" />
+  <img src="https://img.shields.io/badge/PROFILE_TELEMETRY-0B0713?style=for-the-badge&logo=activitypub&logoColor=FF4FD8&labelColor=0B0713" alt="Profile telemetry" />
+</p>
 
-</div>
+<p align="center">
+  <sub>GLOBAL ACCESS // INTERNATIONAL CONNECTIONS // PEOPLE FIRST</sub>
+</p>
+
+<p align="center">
+  <img src="https://github-visitor-counter-tau.vercel.app/api?username=PinchiSZ&displayMode=topCountries&bg=0B0713&text=EADCF8&border=FF4FD8&columns=4&maxflags=16&showlabels=true" alt="Visitor countries, flags and counts" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PinchiSZ&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile view counter" />
+</p>
+
+<p align="center">
+  <sub>Thanks for visiting my profile — wherever in the world you're coding from.</sub>
+</p>
 
 ---
 
