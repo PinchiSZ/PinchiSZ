@@ -69,7 +69,7 @@ My goal is to grow as a **software developer** while gradually specialising in *
 | **Tools & workflows** | Git, GitHub, branches, pull requests, GitHub Actions and Docker fundamentals |
 | **Visualisation** | Chart.js |
 
-### `// Learning next`
+<img width="100%" alt="// Learning next" src="./assets/section-02b-learning-next.svg" />
 
 `AWS` · `Azure` · `DevOps` · `Application Security` · `Penetration Testing` · `Ruby` · `Rust`
 
